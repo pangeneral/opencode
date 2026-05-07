@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "bun",
+    "github-actions",
+    "node"
+  ],
+  "sentinels": [
+    "bun.lock",
+    "package.json"
+  ],
+  "detectedAt": "2026-05-06T07:20:23.728Z",
+  "rootPath": "D:\\code\\opencode"
+}
